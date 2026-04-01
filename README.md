@@ -18,7 +18,7 @@ Een krachtige, end-to-end automatisering ontwikkeld in n8n om het proces van con
 - **Networking:** Nginx Proxy Manager (SSL & Websocket tunneling)
 
 ## 📈 Impact
-De 'VideoMachine' elimineert de traditionele 'bottleneck' van handmatige video-editing. Dit resulteert in een volledig autonome content-pijplijn:
+De 'VideoMachine' haalt de traditionele 'bottleneck' van handmatige video-editing weg. Dit resulteert in een volledig autonome content productie:
 - **100% Tijdsbesparing:** Het volledige proces van ontdekken tot renderen gebeurt op de achtergrond.
 - **Consistente Content-Flow:** Altijd een constante stroom aan verse clips beschikbaar voor social media kanalen.
 - **Onbeperkte Schaalbaarheid:** De modulaire opzet maakt het eenvoudig om uit te breiden naar platformen als YouTube Shorts, TikTok of Instagram Reels.
