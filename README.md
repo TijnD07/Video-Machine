@@ -24,8 +24,8 @@ De 'VideoMachine' elimineert de traditionele 'bottleneck' van handmatige video-e
 - **Onbeperkte Schaalbaarheid:** De modulaire opzet maakt het eenvoudig om uit te breiden naar platformen als YouTube Shorts, TikTok of Instagram Reels.
 
 ## 📸 Preview
-![n8n Workflow Overview](assets/n8n-workflow-main.png)
-![Clip Renderer Sub-flow](assets/n8n-subflow-renderer.png)
+![n8n Workflow Overview](assets/n8n-Video-Machine.png)
+![Clip Renderer Sub-flow](assets/n8n-Clip-Renderer.png)
 
 ---
 *Ontwikkeld door Tijn - 2026*
